@@ -1,0 +1,43 @@
+{
+  "lastUpdated": "2026-09-11",
+  "canonicalUrl": "https://qingwushan.cn/",
+  "brand": {
+    "nameZh": "青雾山",
+    "nameEn": "QINGWUSHAN",
+    "operator": "江口县青雾山抹茶经营部（个体工商户）",
+    "positioning": "贵州抹茶生活方式与伴手礼品牌",
+    "origin": ["中国", "贵州省", "铜仁市", "江口县", "梵净山区域"],
+    "statement": "一抹青雾，半山茶香",
+    "isOfficialFanjingshanBrand": false
+  },
+  "product": {
+    "publicName": "青雾山抹茶",
+    "category": "抹茶粉",
+    "ingredient": "抹茶",
+    "netContent": "40g",
+    "grade": "一级",
+    "originLabel": "贵州·铜仁·印江",
+    "sensoryDescription": "海苔香、鲜醇",
+    "mesh": "1000—1200目",
+    "standard": "GB/T 34778-2017",
+    "shelfLife": "12个月",
+    "storage": "干燥、避光、低温、密封",
+    "entrustingParty": "江口县青雾山抹茶经营部（个体工商户）",
+    "manufacturer": "贵州贵蕊农业发展有限公司",
+    "foodProductionLicense": "SC11452062500243"
+  },
+  "pricingCny": {
+    "suggestedRetailPerCan": 69,
+    "distributorPerCan": 42,
+    "distributorMinimumCans": 60,
+    "dropshipPerCan": 49,
+    "dropshipShipping": "物流实结",
+    "firstBatchPolicy": "不设区域独家，款到发货"
+  },
+  "sourcePages": {
+    "brand": "https://qingwushan.cn/brand/",
+    "product": "https://qingwushan.cn/matcha/",
+    "faq": "https://qingwushan.cn/faq/",
+    "cooperation": "https://qingwushan.cn/cooperation/"
+  }
+}
